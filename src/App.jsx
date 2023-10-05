@@ -15,15 +15,7 @@ import {
   StarsCanvas,
 } from "./components";
 
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <About />,
-//   },
-// ]);
-
 const App = () => {
-  // return <RouterProvider router={router} />;
   return (
     <BrowserRouter>
       <div className="relative z-0 bg-primary">
